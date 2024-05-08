@@ -1,8 +1,8 @@
 import React from 'react';
 import { View, Text, Image } from 'react-native';
-import { globalStyles } from '../styles/global';
-import Signup from './signup';
-import Login from './login';
+import { globalStyles } from '../../styles/global';
+import Signup from './Signup_modal';
+import Login from './Login_modal';
 
 export default function Home() {  
   return (
